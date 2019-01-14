@@ -2,7 +2,6 @@
 
 body{
 	background:#330334;
-	/*background-image: url(images/glitchStatue.jpg);*/
 	font-family:courier, times;
 	background-attachment:fixed;	
 
@@ -16,7 +15,7 @@ div#wrapper{
 	background:rgba(0,0, 0,.9);
 }
 
-.btn {
+button {
   margin: 0 auto 0 auto;
  }
 
