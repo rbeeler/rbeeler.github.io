@@ -9,7 +9,7 @@ body{
 }
 
 .header{
-	border-bottom: 5px solid black;
+	border: 5px solid black;
 }
 
 
@@ -27,7 +27,7 @@ img{
 }
 
 p{
-	color:#fff;
+	color:black;
 	line-height: 1.5;
 
 }
