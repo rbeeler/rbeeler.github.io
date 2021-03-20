@@ -1,9 +1,10 @@
 /*CSS Styles*/
 
 body{
-	background: white;
+	background: #F2EEED;
 	font-family:courier, times;
-	background-attachment:fixed;
+	padding:50px;
+	margin:0 auto 0 auto;
 
 }
 
