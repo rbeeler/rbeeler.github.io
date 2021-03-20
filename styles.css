@@ -12,7 +12,10 @@ body{
 	border: 5px solid black;
 }
 
-
+.page{
+	column-count: 2;
+  column-gap: 40px;
+}
 
 h2{
 	font-size: 16;
