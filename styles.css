@@ -2,22 +2,22 @@
 
 body{
 	background: #F1EBEA;
-	font-family:courier, times;
+	font-family: lucida sans-serif, times;
 	padding:10px 50px 10px 50px;
 	margin:0 auto 0 auto;
 
 }
 
 .header{
-	border-bottom: 2px solid black;
+	border-bottom: 5px solid black;
 }
 
 
 
 h2{
-	font-family:georgia, arial;
+	font-size: 16;
 	color:#D1D1D1;
-}
+	}
 
 img{
 	float: right;
