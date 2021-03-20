@@ -1,28 +1,22 @@
 /*CSS Styles*/
 
 body{
-	background: #F2EEED;
+	background: #F1EBEA;
 	font-family:courier, times;
 	padding:50px;
 	margin:0 auto 0 auto;
 
 }
 
-div#wrapper{
-	width:940px;
-	margin:0 auto 0 auto;
-	background-color:black;
-	padding:50px;
-	background:rgba(0,0, 0,.9);
+div#header{
+	border-bottom: 2px solid black;
 }
 
-button {
-  margin: 0 auto 0 auto;
- }
 
-h1{
+
+h2{
 	font-family:georgia, arial;
-	color:#fff;
+	color:#D1D1D1;
 }
 
 img{
