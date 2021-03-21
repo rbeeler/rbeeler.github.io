@@ -10,7 +10,7 @@ body{
 
 #header{
 	border-bottom: 2px solid black;
-	display: inline;
+	display: inline-inline-block;
 }
 
 #page{
