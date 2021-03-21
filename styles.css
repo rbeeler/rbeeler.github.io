@@ -8,16 +8,16 @@ body{
 
 }
 
-.header{
+#header{
 	border: 5px solid black;
 	display: inline;
 }
 
-.page{
+#page{
 	display: inline-block;
 }
 
-.column1{
+#column1{
 	background-color: #FFC300;
   width: 50%;
   padding: 10px;
