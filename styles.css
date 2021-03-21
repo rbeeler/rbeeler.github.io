@@ -18,7 +18,8 @@ body{
 }
 
 #column{
-  width: 50%;
+	display: inline-block;
+  width: 30%;
   padding: 10px;
 }
 
