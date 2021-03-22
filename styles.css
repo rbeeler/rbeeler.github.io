@@ -25,6 +25,7 @@ body{
 #header p{
 	font-size: 16;
 	color:#D1D1D1;
+	display: inline-block;
 	}
 
 img{
