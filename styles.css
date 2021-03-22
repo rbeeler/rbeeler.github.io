@@ -10,11 +10,11 @@ body{
 
 #header{
 	border-bottom: 1px solid black;
-
+	display: inline-block;
 }
 
 #page{
-	margin: 0px auto 0px auto;
+
 }
 
 #column1{
