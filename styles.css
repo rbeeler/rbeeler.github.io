@@ -23,8 +23,13 @@ body{
 	border-right:1px solid black;
 }
 
-#header p{
+#header p first{
 	display: inline-block;
+	}
+
+#header p last{
+	display: inline-block;
+	float: right;
 	}
 
 img{
