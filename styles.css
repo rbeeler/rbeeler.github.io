@@ -10,16 +10,17 @@ body{
 
 #header{
 	border-bottom: 1px solid black;
-	
+
 }
 
 #page{
-
+	margin: 0px auto 0px auto;
 }
 
 #column{
 	display: inline-block;
   width: 40%;
+	border-right:1px solid black;
 }
 
 #header p{
