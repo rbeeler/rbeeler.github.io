@@ -17,10 +17,16 @@ body{
 	margin: 0px auto 0px auto;
 }
 
-#column{
+#column1{
 	display: inline-block;
   width: 40%;
 	border-right:1px solid black;
+}
+
+#column2{
+	display: inline-block;
+  width: 40%;
+	float: right;
 }
 
 #header p first{
