@@ -9,8 +9,8 @@ body{
 }
 
 #header{
-	border-bottom: 2px solid black;
-	display: inline-block;
+	border-bottom: 1px solid black;
+	
 }
 
 #page{
@@ -23,8 +23,6 @@ body{
 }
 
 #header p{
-	font-size: 16;
-	color:#D1D1D1;
 	display: inline-block;
 	}
 
