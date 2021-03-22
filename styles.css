@@ -26,7 +26,7 @@ body{
 #column2{
 	display: inline-block;
   width: 40%;
-	margin-right: 0px;
+
 }
 
 #header p first{
@@ -35,7 +35,7 @@ body{
 
 #header p last{
 	display: inline-block;
-	float: right;
+	margin-right: 0px;
 	}
 
 img{
