@@ -10,7 +10,7 @@ body{
 
 #header{
 	border-bottom: 1px solid black;
-	display: inline-block;
+	
 }
 
 #page{
@@ -29,11 +29,11 @@ body{
 
 }
 
-#header p #first{
+#header p {
 	display: inline-block;
 	}
 
-#header p #last{
+#header p {
 	display: inline-block;
 	margin-right: 0px;
 	}
