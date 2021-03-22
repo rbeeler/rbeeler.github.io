@@ -29,11 +29,11 @@ body{
 
 }
 
-#header p first{
+#header p #first{
 	display: inline-block;
 	}
 
-#header p last{
+#header p #last{
 	display: inline-block;
 	margin-right: 0px;
 	}
