@@ -14,7 +14,7 @@ body{
 }
 
 #page{
-	display: inline-block;
+
 }
 
 #column{
@@ -22,7 +22,7 @@ body{
   width: 40%;
 }
 
-.header p{
+#header p{
 	font-size: 16;
 	color:#D1D1D1;
 	}
