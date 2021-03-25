@@ -13,10 +13,13 @@ body{
 	display: inline-block;
 }
 
+#header p{
+	display: inline-block;
+}
+
 #page{
 	width: 80%;
 	text-align: center;
-	display: inline-block;
 }
 
 #column1{
